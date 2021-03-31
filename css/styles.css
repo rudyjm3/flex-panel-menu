@@ -1,0 +1,9 @@
+html{
+  background: #ffc600;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+}
+.panel p{
+  margin: 8px 0;
+}
